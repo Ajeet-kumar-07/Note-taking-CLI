@@ -36,7 +36,7 @@ note-taking-app/
 
 1. Clone the repository:
    bash
-   git clone https://github.com/your-username/note-taking-app.git
+   git clone https://github.com/Ajeet-kumar-07/note-taking-app.git
    cd note-taking-app
 
 ## Install Dependencies 
