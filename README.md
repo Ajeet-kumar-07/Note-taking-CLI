@@ -47,17 +47,17 @@ npm install
     Add a Note 
     node app.js add --title="Note Title" --body="Note Body"
 
-##List All Notes 
+## List All Notes 
     node app.js list 
 
-##Read a Note 
+## Read a Note 
     node app.js read --title = "Note Title" 
 
-##Delete a Note 
+## Delete a Note 
 node app.js remove --title = "Note Titlle"
 
 
-##📚 Key Concepts Learned
+## 📚 Key Concepts Learned
 Building CLI apps using Node.js
 
 CRUD operations using the local filesystem
