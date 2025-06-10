@@ -54,7 +54,7 @@ npm install
     node app.js read --title = "Note Title" 
 
 ## Delete a Note 
-node app.js remove --title = "Note Titlle"
+    node app.js remove --title = "Note Titlle"
 
 
 ## 📚 Key Concepts Learned
